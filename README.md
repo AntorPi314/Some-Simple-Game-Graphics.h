@@ -15,5 +15,6 @@ Play and Enjoy the game.
 - **Arrow-up & Arrow-down**: To move the object to up and down
 - **Arrow-left & Arrow-right**: To move the object to left and right
 
-![screenshot](https://github.com/AntorPi314/Simple-Game-Graphics.h/blob/main/Bus_Game.jpg)
+![screenshot](https://github.com/AntorPi314/Some-Simple-Game-Graphics.h/blob/main/Bus_Game.jpg)
+![screenshot](https://github.com/AntorPi314/Car-Game-Graphics.h/blob/main/bin/Screenshot.jpg)
 

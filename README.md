@@ -16,5 +16,8 @@ Play and Enjoy the game.
 - **Arrow-left & Arrow-right**: To move the object to left and right
 
 ![screenshot](https://github.com/AntorPi314/Some-Simple-Game-Graphics.h/blob/main/Bus_Game.jpg)
-![screenshot](https://github.com/AntorPi314/Car-Game-Graphics.h/blob/main/bin/Screenshot.jpg)
+![screenshot](https://github.com/AntorPi314/Some-Simple-Game-Graphics.h/blob/main/Fighter_Jet.jpg)
+![screenshot](https://github.com/AntorPi314/Some-Simple-Game-Graphics.h/blob/main/My_Bird.jpg)
+![screenshot](https://github.com/AntorPi314/Some-Simple-Game-Graphics.h/blob/main/Ship_Game.jpg)
+
 
